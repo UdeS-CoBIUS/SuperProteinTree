@@ -22,7 +22,7 @@ optional arguments:
   -g GUIDETREE, --guideTree GUIDETREE
   -c CLUSTERS, --clusters CLUSTERS
   -o OUTFILE, --outfile OUTFILE
-
+```
 
 ##Input files
 ###guideTree
