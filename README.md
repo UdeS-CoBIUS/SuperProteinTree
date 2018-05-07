@@ -1,5 +1,5 @@
 # SuperProteinTree
-SuperProteinTree computes a super protein tree given a set of protein cluster. 
+SuperProteinTree computes a super protein tree given a set of protein clusters. 
 ####Reconstructing protein and gene phylogenies using reconciliation and soft-clustering
 Read More: https://www.worldscientific.com/doi/abs/10.1142/S0219720017400078
 ####Esaie Kuitche, Manuel Lafond and Aïda Ouangraoua
@@ -64,7 +64,7 @@ ENSMUST00000115307
 (ENSGALT00000011850-ENST00000440651) 0.0665099882491
 ```
 ##NOTICE
-**each line represents a cluster of proteins, and one protein can be find in more than one cluster**
+**each line represents a cluster of proteins, and one protein can be found in more than one cluster**
 ##
 outfile name
 ```
