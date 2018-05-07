@@ -35,7 +35,7 @@ Example
 ```
 /home/user/datas/cluster.cls/
 ```
-##example of genes tree
+##example of cluter file
 ```
 ENST00000320472
 ENST00000392460
